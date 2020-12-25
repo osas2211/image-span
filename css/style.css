@@ -27,7 +27,7 @@ header{
 }
 
 .bg1{
-    background-image: url('/images/bg1.jpg');
+    background-image: url('../images/bg1.jpg');
     display: flex;
     justify-content: center;
     align-items: center;
@@ -39,7 +39,7 @@ header{
 }
 
 .bg2{
-    background-image: url('/images/bg2.jpg');
+    background-image: url('../images/bg2.jpg');
     background-size: cover;
     display: flex;
     background-attachment: fixed;
